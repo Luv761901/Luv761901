@@ -5,14 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luv761901&label=Profile%20views&color=0e75b6&style=flat" alt="luv761901" /> </p>
 
-
 - 📫 How to reach me *aluv49295@gmail.com*
 
 - ⚡ Fun fact *Type of Errors in the code, defines the level of the Coder*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@luvagarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@luvagarwal" height="30" width="40" /></a>
+<a href="https://codepen.io/LuvAgarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@luvagarwal" height="30" width="40" /></a>
 <a href="linkedin.com/in/luv-agarwal-120116211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/luv-agarwal-120116211" height="30" width="40" /></a>
 <a href="https://instagram.com/_luv._.agarwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luv..agarwal_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/luv_49295" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="luv_49295" height="30" width="40" /></a>
