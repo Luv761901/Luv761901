@@ -1,7 +1,7 @@
 # ![](https://raw.githubusercontent.com/Akash-Salvi/Akash-Salvi/master/Hello(1).gif)
 
 [<h1 align="center">Hi 👋, I'm Luv Agarwal</h1>](https://github.com/Luv761901)
-<h3 align="center">I'm a Competitive Programmer 🥇🏅 || Web Developer || 3-Star🌟 Coder at Codechef.</h3>
+<h3 align="center">I'm a Competitive Programmer 🥇🏅 || Web Developer || 5-Star🌟 Problem Solver (HackerRank).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luv761901&label=Profile%20views&color=0e75b6&style=flat" alt="luv761901" /> </p>
 
